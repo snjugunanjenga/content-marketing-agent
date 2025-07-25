@@ -1,0 +1,5 @@
+.env
+.env.*
+*.env
+# Common environment variable files
+*.env.local
